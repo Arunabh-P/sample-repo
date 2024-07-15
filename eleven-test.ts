@@ -1,8 +1,7 @@
 
 const sample = () => {
-    const userName = 'Arunabh'
-    const greeting = ', How are you?'
-    return 'hello ' + userName + greeting
+    const userName = 'test'
+    return 'hello ' + userName
 }
 
 export default sample
